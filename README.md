@@ -8,7 +8,7 @@ Congratulations on your discovery of a wilderness.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tmpbook&show_icons=true" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmpbook&hide=CSS,JavaScript,html,ruby&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmpbook&hide=CSS,JavaScript,html,ruby,Shell,Makefile,Dockerfile&layout=compact" />
 </a>
 
 <!--
