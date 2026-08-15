@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+%E4%B8%B4%E4%B9%A6+(tmpbook);Congratulations+on+your+discovery+of+a+wilderness" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+%E4%B8%B4%E4%B9%A6+(tmpbook);Fixing+real+bugs%2C+one+PR+at+a+time" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm 临书 (tmpbook)</h1>
-
-<p align="center">
-  恭喜你发现一片荒野。 · Congratulations on your discovery of a wilderness.
-</p>
 
 <p align="center">
   <b>Python developer</b> working at the intersection of <b>AI agents</b> and <b>practical, reliable tooling</b>.
