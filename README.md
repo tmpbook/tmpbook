@@ -27,9 +27,4 @@ Python developer working at the intersection of AI agents and practical, reliabl
 - 112 followers
 - 53 public repos
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmpbook&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmpbook&theme=github_dark" />
-</p>
-
 *Open to interesting conversations about AI agents, Python, and open source.*
