@@ -56,6 +56,18 @@
 - 🧪 I believe good fixes cover the whole bug class, not just the one site a reporter happened to hit.
 - 🌱 Currently exploring: making agent systems more observable and self-healing.
 
+## 🏆 GitHub glory
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tmpbook&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <b>⭐ 526</b> stars earned &nbsp;·&nbsp; <b>🍴 146</b> forks &nbsp;·&nbsp; <b>👥 112</b> followers &nbsp;·&nbsp; <b>📦 53</b> public repos
+</p>
+
+**Flagship repo** — [django-with-vuejs](https://github.com/tmpbook/django-with-vuejs) (⭐ 428 · 🍴 111), my most-starred project, plus [vue-template-with-element-ui](https://github.com/tmpbook/vue-template-with-element-ui) (⭐ 43 · 🍴 16) and [Django2.0-Tutorial](https://github.com/tmpbook/Django2.0-Tutorial) (⭐ 19).
+
 ## 📊 GitHub stats
 
 <p align="center">
@@ -63,8 +75,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmpbook&theme=github_dark" />
 </p>
 
-<!-- NOTE: the cards above are served by https://github-profile-summary-cards.vercel.app
-     (a third-party service). They show meaningful data once you have public repos. -->
+<!-- NOTE: trophy & summary cards are served by third-party services
+     (github-profile-trophy.vercel.app / github-profile-summary-cards.vercel.app).
+     All numbers above are real, pulled from the GitHub API on 2026-08-16. -->
 
 ---
 
