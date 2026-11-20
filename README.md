@@ -1,6 +1,6 @@
 # 临书 (tmpbook)
 
-I'm an architect interested in turning complex, experience-driven problems into systems that can be understood, tested, and improved.
+I'm an architect and lifelong learner interested in turning complex, experience-driven problems into systems that can be understood, tested, and improved.
 
 ## What I explore
 
@@ -14,6 +14,8 @@ AI is changing the boundaries of engineering roles. As it lowers the cost of wor
 
 ## How I work
 
-I like to make implicit knowledge explicit, question assumptions, and distinguish a plausible explanation from evidence. A useful system should be practical enough to use, observable enough to learn from, and simple enough to maintain.
+I like to make implicit knowledge explicit, question assumptions, distinguish a plausible explanation from evidence, and simplify where I can. A useful system should be practical enough to use, observable enough to learn from, and simple enough to maintain.
+
+📚 [Reading list](reading-list.md)
 
 Python · Go · TypeScript · AI agents · Engineering systems
