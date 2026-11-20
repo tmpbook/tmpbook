@@ -1,12 +1,19 @@
 # 临书 (tmpbook)
 
-Python developer working at the intersection of AI agents and practical, reliable tooling. I care about code that survives real-world edge cases — race conditions, lazy installs, and the bugs that only show up in production.
+I work on AI agents and practical, reliable tooling. I care about code that handles real-world edge cases and systems that can run reliably over time.
 
 ## What I'm working on
 
-- Contributing to [hermes-agent](https://github.com/NousResearch/hermes-agent) — an open-source personal AI agent that runs the same core across a CLI, a messaging gateway (Telegram, Discord, Slack, and ~20 other platforms), a TUI, and a desktop app.
-  - Recent fix: [rebind `TypeHandler` after lazy dependency install](https://github.com/NousResearch/hermes-agent/pull/87184) — fixed a poisoned module-state bug that silently broke Telegram reconnects for ~50 hours.
-- AI agent infrastructure — lazy dependency management, gateway platform adapters, and making agent tooling robust enough to run unattended.
+- Exploring [hermes-agent](https://github.com/NousResearch/hermes-agent) and contributing to open-source agent infrastructure.
+- Making agent systems more observable, resilient, and easier to operate.
+
+## How I think about engineering roles in the AI era
+
+AI makes implementation faster and lowers the cost of working across disciplines. As a result, delivery can increasingly be constrained by unclear details, quality gaps, and the cost of coordinating between roles.
+
+I believe engineers can take broader ownership of delivery: understanding the problem, clarifying requirements and interaction details, implementing the solution, and verifying the outcome. This doesn't eliminate collaboration or specialist expertise; it makes earlier decisions and a clearer feedback loop more practical.
+
+The goal is not simply to produce more code, but to deliver useful, reliable outcomes with fewer unnecessary handoffs.
 
 ## Tech stack
 
@@ -16,8 +23,8 @@ Python developer working at the intersection of AI agents and practical, reliabl
 
 ## Quick facts
 
-- I enjoy hunting down the "should never happen" bugs — the ones that only manifest after a restart races with a dependency reinstall.
-- I believe good fixes cover the whole bug class, not just the one site a reporter happened to hit.
+- I enjoy investigating bugs that appear only under unusual production conditions.
+- I believe good fixes address the underlying class of problems, not just one symptom.
 - Currently exploring: making agent systems more observable and self-healing.
 
 ## Stats
