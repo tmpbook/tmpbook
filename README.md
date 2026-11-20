@@ -10,7 +10,7 @@ I'm an architect interested in turning complex, experience-driven problems into 
 
 ## Engineering in the AI era
 
-AI makes it easier to work across disciplines. I believe this gives engineers room to take ownership beyond implementation: clarifying requirements and interaction details, building the solution, and validating the result. Resolving uncertainty earlier can reduce handoffs and improve delivery quality.
+AI is changing the boundaries of engineering roles. As it lowers the cost of working across disciplines, engineers can take broader ownership—from interaction design and implementation to validation. By resolving details earlier and taking responsibility through to delivery, teams can reduce handoffs and focus on outcomes.
 
 ## How I work
 
