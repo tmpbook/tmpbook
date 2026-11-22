@@ -18,7 +18,7 @@ I like to make implicit knowledge explicit, question assumptions, distinguish a 
 
 ## Projects
 
-- [AI 交互技巧 / AI Interaction Tips](https://github.com/tmpbook/ai-interaction-tips) — 整理来自小红书的实用 AI 交互技巧。 A bilingual collection of practical tips from Xiaohongshu on managing AI conversations, collaborating on projects, and refining responses.
+- [AI 交互技巧 / AI Interaction Tips](https://github.com/tmpbook/ai-interaction-tips) — 整理实用 AI 交互技巧。 A bilingual collection of practical tips on managing AI conversations, collaborating on projects, and refining responses.
 
 📚 [Reading list](reading-list.md)
 
