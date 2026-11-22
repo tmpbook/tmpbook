@@ -1,6 +1,6 @@
 # 临书 (tmpbook)
 
-I'm an architect and lifelong learner interested in turning complex, experience-driven problems into systems that can be understood, tested, and improved.
+I'm an architect and lifelong learner interested in turning complex, experience-driven problems into systems that can be understood, tested, and improved. I keep a [reading list](reading-list.md) of books I’m reading and have finished.
 
 ## What I explore
 
@@ -20,6 +20,4 @@ I like to make implicit knowledge explicit, question assumptions, distinguish a 
 
 - [AI 交互技巧 / AI Interaction Tips](https://github.com/tmpbook/ai-interaction-tips) — 整理实用 AI 交互技巧。 A bilingual collection of practical tips on managing AI conversations, collaborating on projects, and refining responses.
 
-📚 [Reading list](reading-list.md)
-
-Python · Go · TypeScript · AI agents · Engineering systems
+Python · Go · AI agents · Engineering systems
