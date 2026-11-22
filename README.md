@@ -16,6 +16,10 @@ AI is changing the boundaries of engineering roles. As it lowers the cost of wor
 
 I like to make implicit knowledge explicit, question assumptions, distinguish a plausible explanation from evidence, and simplify where I can. A useful system should be practical enough to use, observable enough to learn from, and simple enough to maintain.
 
+## Projects
+
+- [AI 交互技巧 / AI Interaction Tips](https://github.com/tmpbook/ai-interaction-tips) — 整理来自小红书的实用 AI 交互技巧。 A bilingual collection of practical tips from Xiaohongshu on managing AI conversations, collaborating on projects, and refining responses.
+
 📚 [Reading list](reading-list.md)
 
 Python · Go · TypeScript · AI agents · Engineering systems
