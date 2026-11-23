@@ -18,7 +18,7 @@ I like to make implicit knowledge explicit, question assumptions, distinguish a 
 
 > Simple is better. Simplicity is the ultimate sophistication.
 
-## Projects
+## Public Notes
 
 - [AI 交互技巧 / AI Interaction Tips](https://github.com/tmpbook/ai-interaction-tips) — 整理实用 AI 交互技巧。 A bilingual collection of practical tips on managing AI conversations, collaborating on projects, and refining responses.
 
